@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Rock It Like This</string>
+    <string name="choose_artist">Choose Your Artist</string>
+    <string name="pink_floyd">Pink Floyd</string>
+    <string name="the_animals">The Animals</string>
+    <string name="velvet_underground">The Velvet Underground</string>
+</resources>
