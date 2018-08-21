@@ -9,16 +9,24 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/main_activity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".PinkActivity" />
-        <activity android:name=".VelvetActivity" />
-        <activity android:name=".AnimalsActivity" />
+        <activity
+            android:name=".PinkActivity"
+            android:label="@string/pink_floyd" />
+        <activity
+            android:name=".VelvetActivity"
+            android:label="@string/velvet_underground" />
+        <activity
+            android:name=".AnimalsActivity"
+            android:label="@string/the_animals" />
     </application>
 
 </manifest>
