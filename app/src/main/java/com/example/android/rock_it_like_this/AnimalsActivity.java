@@ -1,8 +1,9 @@
 package com.example.android.rock_it_like_this;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.widget.ListView;
+
 import java.util.ArrayList;
 
 public class AnimalsActivity extends AppCompatActivity {
