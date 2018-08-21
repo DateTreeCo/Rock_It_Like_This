@@ -4,4 +4,6 @@
     <string name="pink_floyd">Pink Floyd</string>
     <string name="the_animals">The Animals</string>
     <string name="velvet_underground">The Velvet Underground</string>
+    <string name="return_main">Return to Main Menu</string>
+    <string name="play_button">Play Button</string>
 </resources>
